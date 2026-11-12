@@ -9,3 +9,16 @@
 divider1 = "*******************"
 divider2 = "---------------------------"
 print ("", divider1)
+
+
+def celsius(f):
+  C=0.55556x(F - 32 ?)
+  print(c)
+
+# Main function
+def main():
+  for i in range(21):
+    celsius(f?)
+
+# Calling the main function
+main()
